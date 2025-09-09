@@ -3,7 +3,7 @@
 
 <div align="center">
 
-> I am [**Justine Delima**](https://github.com/delima-justine), a 3rd year student from Polytechnic University of the Philippines - Taguig Campus.
+> I am [**Justine Delima**](https://github.com/delima-justine), a 3rd-year student from Polytechnic University of the Philippines - Taguig Campus.
 
 </div>
 
