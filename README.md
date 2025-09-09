@@ -41,8 +41,26 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=delima-justine&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/justinedelima24) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ans4ac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justine-delima-88a0792b2)
+<p 
+    align="center" 
+    style="
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1em;
+    ">
+  <b>🌐 Socials:</b>
+  <a href="https://facebook.com/justinedelima24">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ans4ac">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/justine-delima-88a0792b2">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=delima-justine&icon=0&color=0)](https://visitcount.itsvg.in) 
