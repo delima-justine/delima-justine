@@ -41,8 +41,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=delima-justine&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p 
-    align="center">
+<p align="center">
   <b>🌐 Socials:</b>
   <a href="https://facebook.com/justinedelima24">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
