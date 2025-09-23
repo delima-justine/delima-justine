@@ -17,7 +17,7 @@
 
 **Tech Stack:** HTML • CSS • JavaScript • PHP • XAMPP   
     
-- [MedAssistant](https://github.com/delima-justine/MedAssistant) - Made in Java, a system designed to manage hospital operations such as patient records, doctor schedules, and admin access.
+- [MedAssistant](https://github.com/delima-justine/MedAssistant) - A system designed to manage hospital operations such as patient records, doctor schedules, and admin access.
   
 **Tech Stack:** Java • Scene Builder • SMSS
 
