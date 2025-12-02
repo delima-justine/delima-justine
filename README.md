@@ -1,4 +1,17 @@
+<div align="start">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBydDhoamR1bzQ3c2R1eDRtanFycnZkd2EwNWpwc21maXdxaTR6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dVdRTSlOOak6vbrrQY/giphy.gif" alt="Digivice" width="130px"/>
  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx3eDJxd2RpcTMxY3N1NXhycDlnYXR5cTZudzRlNms3Z3k5a29oayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XG6vHAvZkDKq6Zwze7/giphy.gif" alt="Digivice" width="110px"/>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRqcmJhYmR5d2E2bG9saXl5NmkzZDl3dXJucXB3a2Z1ZDFzZmwwMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KgDpDFkGeLcIILj8A2/giphy.gif" alt="Digivice" width="130px"/>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRqcmJhYmR5d2E2bG9saXl5NmkzZDl3dXJucXB3a2Z1ZDFzZmwwMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eMy3TwSUHfRWRYSDSF/giphy.gif" alt="Digivice" width="130px"/>
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNxajl5Ync0NDd6YjUxMm9rMG10dXJpNGRoaWViZXc4bm1ydGxvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TEj6RG7FlE3Dgcy5Al/giphy.gif" alt="Digivice" width="130px"/>
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHMwb3N4MGdmczgxZWF3bDc3bW5yNGo3b3pjdGlldHJ2MHIxamkzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yiwMIjqWXY03V1Hvgb/giphy.gif" alt="Digivice" width="130px"/>
+</div>
+
 ## 👋 Hello! 
 
 <div align="center">
