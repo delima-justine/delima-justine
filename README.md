@@ -29,7 +29,7 @@
 <table width="100%">
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <h4>🌟 PUPT-SMIS &nbsp;<img src="https://img.shields.io/badge/Status-Featured_System-blue?style=flat-square" alt="Status" /></h4>
+      <h4>🌟 PUPT-SMIS &nbsp;<img src="https://img.shields.io/badge/Capstone Project-green?style=flat-square" alt="Status" /></h4>
       <p>Enhanced supply management information system focused on UI/UX improvements, real-time notifications, and auditing of supply transactions and actions.</p>
       <p>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
