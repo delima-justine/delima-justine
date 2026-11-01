@@ -1,7 +1,29 @@
 # 👋 Hello, I'm Justine!
 
-<!-- LASTFM:START -->
-<!-- LASTFM:END -->
+<!-- DEEZER:START -->
+<div align="center">
+  <div style="display:inline-block; border:1px solid #d0d7de; border-radius:16px; padding:12px 18px; background:rgba(255,255,255,0.02); width:560px; max-width:90%; text-align:left; box-shadow:0 0 0 1px rgba(208,215,222,0.3);">
+    <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:100%;">
+      <tr>
+        <td width="76" valign="top">
+          <img src="https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=256&q=80" alt="Album art" width="64" height="64" style="border-radius:12px; border:1px solid #d0d7de;" />
+        </td>
+        <td valign="middle" style="padding-left:12px;">
+          <div style="font-size:12px; letter-spacing:1.5px; color:#8b949e; text-transform:uppercase;">On Repeat</div>
+          <div style="font-size:20px; font-weight:700; color:#f0f6fc; margin-top:4px;">Midnight City</div>
+          <div style="font-size:14px; color:#c9d1d9; margin-top:2px;">M83</div>
+          <div style="font-size:12px; color:#8b949e; margin-top:6px;">Deezer • Featured Track</div>
+        </td>
+      </tr>
+    </table>
+    <div align="left" style="margin-top:12px;">
+      <a href="https://www.deezer.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Play_on_Deezer-FF0000?style=for-the-badge&logo=deezer&logoColor=white" alt="Play on Deezer" width="160" />
+      </a>
+    </div>
+  </div>
+</div>
+<!-- DEEZER:END -->
 
 > I am an IT student at Polytechnic University of the Philippines - Taguig Campus.
 

@@ -1,8 +1,8 @@
-name: Update Last.fm README
+name: Update Deezer README
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,10 +22,9 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Update README with current Last.fm track
+      - name: Update README with fixed Deezer track
         env:
-          LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
-          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          DEEZER_TRACK_ID: ${{ secrets.DEEZER_TRACK_ID }}
         run: python scripts/update_lastfm_readme.py
 
       - name: Commit and push README updates
@@ -36,6 +35,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No README changes to commit."
           else
-            git commit -m "Update README Last.fm status"
+            git commit -m "Update README Deezer track"
             git push
           fi
