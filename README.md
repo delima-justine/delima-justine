@@ -1,12 +1,9 @@
 # 👋 Hello, I'm Justine!
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=125BCA&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+Justine+R.+Delima" alt="Typing Introduction" />
+<!-- LASTFM:START -->
+<!-- LASTFM:END -->
 
-> I am a third-year DIT student at Polytechnic University of the Philippines - Taguig Campus.
-> Always and currently learning. 💭
-
-</div>
+> I am an IT student at Polytechnic University of the Philippines - Taguig Campus.
 
 ---
 
@@ -24,32 +21,49 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+**Currently Learning:**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
 ---
 
 ### 📄 Featured Projects
 
-- 💰 [**iBudget**](https://github.com/PUP-BSIT/project-appvengers.git)
- *A budget management web application designed for students.*
- *`Tech: Angular, Spring Boot, MySQL, Hostinger VPS`*
-
-- 🌐 [**HeyBleepi**](https://github.com/PUP-BSIT/project-club-404) 
-  *A social media website designed for user interaction.*
-  *`Tech: HTML, CSS, JavaScript, PHP, XAMPP`*
-
-- 🏥 [**MedAssistant**](https://github.com/delima-justine/MedAssistant)
-  *Hospital operations system managing patient records and scheduling.*
-  *`Tech: Java, Scene Builder, SSMS (Database)`*
-
-- 🧹 [**Automated Disk Cleaner**](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)
-  *PowerShell tool for storage optimization and file cleanup.*
-  *`Tech: PowerShell`*
-  
----
-
-### 📊 My GitHub Journey
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=delima-justine&theme=github_dark" width="100%" />
+<div align="left">
+ <table>
+   <tr>
+     <td width="50%" valign="top">
+       <h3>💰 <a href="https://github.com/PUP-BSIT/project-appvengers.git">iBudget</a></h3>
+       <p>A budget management web application designed for students.</p>
+       <p><code>Angular · Spring Boot · MySQL · Hostinger VPS</code></p>
+     </td>
+     <td width="50%" valign="top">
+       <h3>🌐 <a href="https://github.com/PUP-BSIT/project-club-404">HeyBleepi</a></h3>
+       <p>A social media website designed for user interaction.</p>
+       <p><code>HTML · CSS · JavaScript · PHP · XAMPP</code></p>
+     </td>
+   </tr>
+   <tr>
+     <td width="50%" valign="top">
+       <h3>🏥 <a href="https://github.com/delima-justine/MedAssistant">MedAssistant</a></h3>
+       <p>Hospital operations system for patient records, scheduling, and workflow support.</p>
+       <p><code>Java · Scene Builder · SSMS</code></p>
+     </td>
+     <td width="50%" valign="top">
+       <h3>📦 PUPT-SMIS</h3>
+       <p>Enhanced supply management information system focused on UI/UX improvements, real-time notifications, and auditing of supply transactions and actions.</p>
+       <p><code>Angular · Laravel · MySQL · Hostinger · Pusher · Google Gemini</code></p>
+     </td>
+   </tr>
+   <tr>
+     <td width="50%" valign="top">
+       <h3>🧹 <a href="https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI">Automated Disk Cleaner</a></h3>
+       <p>PowerShell tool for storage optimization and file cleanup.</p>
+       <p><code>PowerShell</code></p>
+     </td>
+     <td width="50%" valign="top">
+       &nbsp;
+     </td>
+   </tr>
+ </table>
 </div>
-
----
